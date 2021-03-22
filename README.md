@@ -7,7 +7,7 @@ Curated list of up to date filterlists, with minimal false positives.
 
 I use emoji's to help organize the list.
 
-- A ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/STAR_29x29.png) means that it's a filter I reccomend. 
+- A ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/STAR_29x29.png) ⭐🌟 means that it's a filter I reccomend. 
 
 - A ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/Icon-Notification.png) means it's compatible with AdGuard and uBlock Origin
 
