@@ -23,7 +23,7 @@ I use emoji's to help organize the list.
 
 [Whitelists](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/whitelist.md)
 
-[Multiple Categories(Filterlists that block multiple things)](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Multipurpose.md)
+[Multiple Categories (Filterlists that block multiple things)](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Multipurpose.md)
 
 [Cookies](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Cookies.md)
 
