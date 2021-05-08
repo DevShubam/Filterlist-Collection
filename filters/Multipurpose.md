@@ -9,3 +9,7 @@
 
 
 ## AdBlock Filters ![](https://user-images.githubusercontent.com/65375709/110261600-dd47a900-7f7e-11eb-902f-e95eb87fa980.png)
+
+- [1Hosts Pro](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt)
+- [1Hosts Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt)
+- [1Hosts Mini](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt)
