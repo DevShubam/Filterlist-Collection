@@ -3,6 +3,8 @@ Curated list of up to date filterlists, with minimal false positives.
 
 ## Important Reading Points
 
+## ⛔This will not be recieving many updates for a while, as I am getting this project onto my website to help sort it better.⛔
+
 ### Emojis
 
 I use emoji's to help organize the list.
